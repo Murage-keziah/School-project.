@@ -1,0 +1,12 @@
+.classOne{
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+}
+
+.classTwo{
+    text-align: right;
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+}
